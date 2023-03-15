@@ -1,0 +1,9 @@
+* {
+    padding: 0;
+    margin: 0;
+    border-style: border-box;
+}
+
+p {
+    color: red;
+}
