@@ -97,6 +97,11 @@ body {
   margin: 0;
 }
 
+.slide:nth-child(5) {
+  background-color: pink;
+  margin: 0;
+}
+
 footer {
   padding: 1em;
   text-align: center;
