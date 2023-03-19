@@ -1,4 +1,4 @@
-#  11. posgreSQL task
+#  11. PostgreSQL task
 
 ![](./images/bd.png)
 
