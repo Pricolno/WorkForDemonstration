@@ -178,6 +178,11 @@ body {
 
 .join-us-link{
     text-decoration: none;
-    
     color: #2B6CB0;
+    transition: color ease-in-out 0.250s;
+}
+
+
+.join-us-link:hover{
+        color: #7b2d95;
 }
