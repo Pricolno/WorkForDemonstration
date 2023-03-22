@@ -182,7 +182,6 @@ body {
     transition: color ease-in-out 0.250s;
 }
 
-
 .join-us-link:hover{
-        color: #7b2d95;
+    color: #7b2d95;
 }
