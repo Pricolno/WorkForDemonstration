@@ -1,0 +1,31 @@
+.button-login{
+    width: 100%;
+    height: 50px;
+    background: #04C45C;
+    border-radius: 5px; 
+    border: 0;
+    color: white;
+    cursor: pointer;
+
+    transition: color ease-in-out 0.250s;
+
+    margin-bottom: 15px;
+}
+
+.button-login:hover{
+    background: #026631;
+}
+
+.google{
+    background: #2D3748;
+    transition: color ease-in-out 0.250s;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 11px;
+}
+
+.google:hover{
+    background: #44536d;
+}

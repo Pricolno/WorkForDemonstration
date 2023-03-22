@@ -1,0 +1,13 @@
+.forgot-link{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #2C5282;
+    text-decoration: none;
+    transition: color ease-in-out 0.250s;
+
+}
+
+.forgot-link:hover{
+    color: #1A202C;
+}
