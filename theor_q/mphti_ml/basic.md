@@ -227,6 +227,18 @@ F - фичи, G - новые фичи (проекции старых фич на
 
  [применение для рекомендательной системы от Николенко](https://habr.com/ru/companies/surfingbird/articles/139863/)
 
+[мфти](https://www.youtube.com/watch?v=S5e2PClkP4o)
+
+[PCA kaggle](https://www.kaggle.com/code/prashantkumarsundge/understanding-pca-in-details)
+
+
+[тык](https://www.youtube.com/watch?v=fkf4IBRSeEc)
+
+[тык](https://www.baeldung.com/cs/principal-component-analysis)
+
+[тык](https://ryanwingate.com/intro-to-machine-learning/unsupervised/pca-on-mnist/)
+
+
 # 12 
 >Этапы обучения, валидации и тестирования модели. Проблема переобучения, способы её обнаружения.
 
